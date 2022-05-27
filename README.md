@@ -2,7 +2,8 @@
 
 ```bash
 
-Package: 
+Package: video_player
+         chewie
 
 ```
 
